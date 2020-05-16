@@ -20,7 +20,7 @@
 * Run the program using commands below. eg.
 
            QUESTION2.py
- ## How to run cpp  
+ ## How to run c++ Program  
 * To run cpp files you need to have install gcc compiler  
    on your Pc
 
